@@ -24,6 +24,8 @@ Move disc 1 from pole 1 to pole 2
 ------------------------------------------
 Qtd discos = 2, total de movimentos = 8   
 
+
+
 $ java-introcs HanoiRevisited 3
 Move disc 1 from pole 0 to pole 1
 Move disc 1 from pole 1 to pole 2
