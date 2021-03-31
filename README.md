@@ -1,3 +1,3 @@
-# COMPUTAÇÃO 1 - EPs
+# Computação 1 - EPs
 
 EPs do curso de Computação 1 em Java.
