@@ -1,4 +1,4 @@
-# EP 3
+# EP 3 - Binary Search
 Neste exercício você precisará crias algumas classes e trabalhar com vetores e recursividade, passando informação por linha de comando e utilizando um arquivo de texto.
 Você deve criar 3 arquivos .java (3 classes): Busca.java, PrintArray.java e BuscasArray.java, descritos como segue:
 
