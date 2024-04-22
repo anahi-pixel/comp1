@@ -1,4 +1,4 @@
-# EP Extra
+# EP Extra - Plotting functions
 Seu programa deve plotar o gráfico da função f(x) = ax^2 + bx + c no intervalo (e,d), considerando N pontos.
 
 Os parâmetros N, a, b, c, e, d devem ser passados, nessa ordem, como argumentos por linha de comando, de modo que: 
