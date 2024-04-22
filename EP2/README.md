@@ -1,4 +1,4 @@
-# EP 2
+# EP 2 - Random walks
 Um gato está no centro de uma cidade modelada como um grid N x N, onde N é o primeiro argumento passado como entrada (args[0]). O gato não pode ir para uma posição que já visitou. Para se movimentar, o gato realiza um passo de cada vez, podendo ir para cima, para direita, para esquerda ou para baixo aleatoriamente, dentre as possíveis que não visitou ainda.
 
 Se em algum momento o gato estiver em um ponto no qual já passou pelas 4 vizinhanças, então o gato chega a um beco sem saída.
