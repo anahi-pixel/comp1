@@ -1,4 +1,4 @@
-# EP 6
+# EP 6 - Solving sudoku
 Escreva um programa chamado Sudoku.java que resolve o Sudoku.
 
 Seu programa deve receber um arquivo de texto com a configuração inicial. O formato de entrada de seu programa é exemplificado nos arquivos in0.txt, in1.txt, etc dados abaixo. Seu programa deve ter dois modos de execução.
