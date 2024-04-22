@@ -1,4 +1,4 @@
-# EP 5
+# EP 5 - Snake game
 Neste exercício você implementará o que serve como base para a implementação do clássico jogo da cobrinha. A seguir temos uma descrição de cada um dos elementos que devem estar presentes no seu programa.
 
 Grid
