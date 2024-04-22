@@ -1,4 +1,4 @@
-# EP 7
+# EP 7 - Sorting and Two Pointers
 Escreva um programa chamado Threesum.java para verificar se existe uma tripla de elementos cuja soma é igual a 0.
 
 Seu programa recebe como entrada um conjunto de n números inteiros e salva esses inteiros em um vetor com n posições (você pode gerar inteiros para o seu programa utilizando Generator.java disponível mais abaixo).
