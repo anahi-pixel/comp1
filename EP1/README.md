@@ -1,4 +1,4 @@
-# EP1 - Larges number game
+# EP1 - Largest number game
 Vamos considerar duas versões do seguinte jogo: Alice escreve dois números inteiros entre 0 e 99 atrás de duas cartas (um número em cada carta). Bob deve escolher uma das duas cartas e ele vence o jogo se a carta escolhida for a de maior valor. 
 
 Versão 1 (No choice): Bob precisa escolher sua carta sem ver os números escritos por Alice.
