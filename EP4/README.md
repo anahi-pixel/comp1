@@ -1,4 +1,4 @@
-# EP 4
+# EP 4 - Hanoi towers
 Considere o problema das Torres de Hanói onde temos torres A, B e C e você deseja mover n discos da torre A para a torre C. Você deve implementar um programa (recursivo) que recebe esse número n como entrada e resolve o problema com a seguinte regra adicional:
 
 - Nenhum disco pode ser movido diretamente entre as torres A e C (nem de A para C, nem de C para A).
