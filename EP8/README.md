@@ -1,4 +1,4 @@
-# EP 8
+# EP 8 - Image manipulation
 Escreva um programa chamado Adiamento.java. Seu programa recebe como entrada 5 argumentos, definidos como segue:
 
 - args[0]: endereço do arquivo de imagem principal que será modificado
