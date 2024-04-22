@@ -1,4 +1,4 @@
-# EP 0
+# EP 0 - Operations
 Você deve escrever o programa OperaTres.java como segue: 
 
 - O programa deve receber do usuário 3 números inteiros, digamos que sejam a, b, c.
